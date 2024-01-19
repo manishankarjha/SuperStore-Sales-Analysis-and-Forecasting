@@ -1,4 +1,4 @@
-# SuperStore-Sales-with-Forecasting
+# SuperStore-Sales-Analysis-&-Forecasting
 
 SuperStore Sales analysis in **Power BI** with forecasting of upcoming 15 days sales
 
