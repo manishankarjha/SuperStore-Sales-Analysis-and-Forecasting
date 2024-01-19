@@ -29,6 +29,7 @@ To contribute to the success of a business by utilizing data analysis techniques
 - West region of US has got the maximum sales of around 33% .
 - Monthly sales ``increases`` as we transition from January to December for both years 2019 and 2020.
 - However its not the case with Monthly profits. It has seen slightly much profits in March 2020 and October 2019.
+- Most of the products have been shipped by ``Standard Class`` (probably due to their cheap services).
 - ``Office Supplies`` is the highest Sales category while ``Phones`` sub-category got the maximum amount in sales. 
 - ``California`` is the state with maximum sales of around **``0.34 M``**.
 
